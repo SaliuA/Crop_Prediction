@@ -19,8 +19,10 @@ Each row in this dataset represents various measures of the soil in a particular
 
 ## Summary
 
-* Dataset mostly has numerical data
-* Built a multi-class logistic regression model to predict optimal crops
+* The dataset mostly has numerical data
+*  our model got an accuracy score of 65% and our analysis revealed that the phosphorous content of the soil emerged as the most influential feature in our predictive model. This underscores the critical role of phosphorous in crop growth and productivity. This highlights the importance of soil testing in sustainable farming practices.
+
+As we continue to refine our model and incorporate more features, we anticipate further improvements in its predictive accuracy, ultimately contributing to the advancement of precision agriculture in Nigeria.
 
 ### Built With
 
@@ -28,4 +30,5 @@ Each row in this dataset represents various measures of the soil in a particular
 pandas
 seaborn
 matplotlib
+sklearn
 ```
